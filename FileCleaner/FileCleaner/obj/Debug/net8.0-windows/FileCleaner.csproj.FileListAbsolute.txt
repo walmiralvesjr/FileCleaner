@@ -1,0 +1,17 @@
+C:\Users\Junior\source\repos\FileCleaner\FileCleaner\bin\Debug\net8.0-windows\FileCleaner.exe
+C:\Users\Junior\source\repos\FileCleaner\FileCleaner\bin\Debug\net8.0-windows\FileCleaner.deps.json
+C:\Users\Junior\source\repos\FileCleaner\FileCleaner\bin\Debug\net8.0-windows\FileCleaner.runtimeconfig.json
+C:\Users\Junior\source\repos\FileCleaner\FileCleaner\bin\Debug\net8.0-windows\FileCleaner.dll
+C:\Users\Junior\source\repos\FileCleaner\FileCleaner\bin\Debug\net8.0-windows\FileCleaner.pdb
+C:\Users\Junior\source\repos\FileCleaner\FileCleaner\obj\Debug\net8.0-windows\FileCleaner.Form1.resources
+C:\Users\Junior\source\repos\FileCleaner\FileCleaner\obj\Debug\net8.0-windows\FileCleaner.csproj.GenerateResource.cache
+C:\Users\Junior\source\repos\FileCleaner\FileCleaner\obj\Debug\net8.0-windows\FileCleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junior\source\repos\FileCleaner\FileCleaner\obj\Debug\net8.0-windows\FileCleaner.AssemblyInfoInputs.cache
+C:\Users\Junior\source\repos\FileCleaner\FileCleaner\obj\Debug\net8.0-windows\FileCleaner.AssemblyInfo.cs
+C:\Users\Junior\source\repos\FileCleaner\FileCleaner\obj\Debug\net8.0-windows\FileCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Junior\source\repos\FileCleaner\FileCleaner\obj\Debug\net8.0-windows\FileCleaner.dll
+C:\Users\Junior\source\repos\FileCleaner\FileCleaner\obj\Debug\net8.0-windows\refint\FileCleaner.dll
+C:\Users\Junior\source\repos\FileCleaner\FileCleaner\obj\Debug\net8.0-windows\FileCleaner.pdb
+C:\Users\Junior\source\repos\FileCleaner\FileCleaner\obj\Debug\net8.0-windows\FileCleaner.genruntimeconfig.cache
+C:\Users\Junior\source\repos\FileCleaner\FileCleaner\obj\Debug\net8.0-windows\ref\FileCleaner.dll
+C:\Users\Junior\source\repos\FileCleaner\FileCleaner\obj\Debug\net8.0-windows\FileCleaner.Properties.Resources.resources
